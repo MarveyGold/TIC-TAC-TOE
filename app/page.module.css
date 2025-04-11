@@ -166,11 +166,12 @@ a.secondary {
   }
 }
 .tic{
-  width: 8vw;
-  height: 8vw;
+  width: 5rem;
+  height: 5rem;
   font: bold;
   font-size: 50px;
 }
 .reset{
-  height: 7vh;
+  height: 3rem;
+  width: 15rem;
 }
