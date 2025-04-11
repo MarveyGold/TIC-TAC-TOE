@@ -173,5 +173,5 @@ a.secondary {
 }
 .reset{
   height: 3rem;
-  width: 15rem;
+  width: calc(15rem + 60px);
 }
